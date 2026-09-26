@@ -1,0 +1,3 @@
+indicator_id,indicator_parent,measure1_id,measure2_id,unit_id,indicator_name,measure1_name,measure2_name,un_name
+55,-1,,36,6,Сезонно скорректированная задолженность по кредитам,,В рублях,млн руб.
+55,-1,,35,6,Сезонно скорректированная задолженность по кредитам,,Всего,млн руб.

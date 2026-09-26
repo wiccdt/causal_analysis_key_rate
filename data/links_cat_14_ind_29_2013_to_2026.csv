@@ -1,0 +1,3 @@
+indicator_id,indicator_parent,measure1_id,measure2_id,unit_id,indicator_name,measure1_name,measure2_name,un_name
+29,-1,,36,1,Ставки по ипотечным жилищным кредитам,,В рублях,% годовых
+29,-1,,40,1,Ставки по ипотечным жилищным кредитам,,В иностранной валюте,% годовых
